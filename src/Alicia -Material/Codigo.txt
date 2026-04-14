@@ -1,0 +1,8 @@
+- Fuente:
+<link
+        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Cormorant+Garamond:ital,wght@0,500;1,500&family=Great+Vibes&display=swap"
+        rel="stylesheet">
+
+- Paleta de Color:
+---> #3d2d49  : Fondo
+---> #f7e6b0  : color

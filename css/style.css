@@ -4,8 +4,15 @@
     box-sizing: border-box;
 }
 
-body {
+html,body {
     background-color: #3d2d49;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
 }
 
 .Fondo {
@@ -75,6 +82,53 @@ body {
     height: 80vh;
     width: 100%;
     object-fit: contain;
+}
+
+.No_Voy_A_Elegir {
+    display: flex;
+    justify-content: center;
+    margin: 150px 0px;
+    color: #f7e6b0;
+}
+
+.No_Voy_A_Elegir form {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    
+} 
+
+.No_Voy_A_Elegir input {
+    background-color: #f7e6b0;
+    border-radius: 15px;
+    border: 5px solid #92487A;
+    padding: 5px;
+    transition: 0.3s;   
+}
+
+.Martina {
+    margin-left: 20px;
+    width: 140px;
+}
+
+.Martina:hover {
+    color: #f7e6b0;
+    background-color: #92487A;
+    transform: scale(1.05);   
+}
+
+.maps p {
+    color: #f7e6b0;
+    text-align: center;
+}
+
+.No_Voy_A_Elegir img {
+    width: 50%;
+}
+
+.Bruno {
+    height: 80px;
+    width: 100%;
 }
 
 /* ? FOOTER */

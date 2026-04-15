@@ -4,7 +4,7 @@
 - Docente: Gareis Pablo
 - Curso: 6°3
 - Taller: 6.8
-- Alumno/s: Daniel 
+- Alumno/s: Daniel y Aquino
 - Tema: Redireccionamiento de Páginas.
 
 ### Estructura Root
